@@ -1,0 +1,15 @@
+C:\Users\mrfir\Documents\GitHub\spel-OPP\bin\Debug\net7.0\spel-OPP.exe
+C:\Users\mrfir\Documents\GitHub\spel-OPP\bin\Debug\net7.0\spel-OPP.deps.json
+C:\Users\mrfir\Documents\GitHub\spel-OPP\bin\Debug\net7.0\spel-OPP.runtimeconfig.json
+C:\Users\mrfir\Documents\GitHub\spel-OPP\bin\Debug\net7.0\spel-OPP.dll
+C:\Users\mrfir\Documents\GitHub\spel-OPP\bin\Debug\net7.0\spel-OPP.pdb
+C:\Users\mrfir\Documents\GitHub\spel-OPP\obj\Debug\net7.0\spel-OPP.csproj.AssemblyReference.cache
+C:\Users\mrfir\Documents\GitHub\spel-OPP\obj\Debug\net7.0\spel-OPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrfir\Documents\GitHub\spel-OPP\obj\Debug\net7.0\spel-OPP.AssemblyInfoInputs.cache
+C:\Users\mrfir\Documents\GitHub\spel-OPP\obj\Debug\net7.0\spel-OPP.AssemblyInfo.cs
+C:\Users\mrfir\Documents\GitHub\spel-OPP\obj\Debug\net7.0\spel-OPP.csproj.CoreCompileInputs.cache
+C:\Users\mrfir\Documents\GitHub\spel-OPP\obj\Debug\net7.0\spel-OPP.dll
+C:\Users\mrfir\Documents\GitHub\spel-OPP\obj\Debug\net7.0\refint\spel-OPP.dll
+C:\Users\mrfir\Documents\GitHub\spel-OPP\obj\Debug\net7.0\spel-OPP.pdb
+C:\Users\mrfir\Documents\GitHub\spel-OPP\obj\Debug\net7.0\spel-OPP.genruntimeconfig.cache
+C:\Users\mrfir\Documents\GitHub\spel-OPP\obj\Debug\net7.0\ref\spel-OPP.dll
