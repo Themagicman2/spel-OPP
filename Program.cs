@@ -424,7 +424,7 @@ class Goblin : Enemy
 {
     public Goblin(string name) : base(name)
     {
-        // Customize Goblin properties if needed
+
     }
 }
 
@@ -432,9 +432,9 @@ class Dragon : Enemy
 {
     public Dragon(string name) : base(name)
     {
-        // Customize Dragon properties if needed
+
                 }
             }
         }    
     }
-}
+
