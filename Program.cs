@@ -113,15 +113,15 @@ private static int GetNumericInput(int minValue, int maxValue)
         }
 
         static void StartBattle()
-        {
-            Console.Clear();
-            Console.WriteLine("Round " + currentRound);
-            Console.WriteLine(player.Name + " vs Enemies");
+{
+    Console.Clear();
+    Console.WriteLine("Round " + currentRound);
+    Console.WriteLine(player.Name + " vs Enemies");
 
-            // Initialize enemies for the current round
-            enemies = new List<Enemy>();
-            enemies.Add(new Enemy("Enemy 1"));
-            enemies.Add(new Enemy("Enemy 2"));
+    // Initialize enemies for the current round
+    enemies = new List<Enemy>();
+    enemies.Add(new Goblin("Goblin 1"));
+    enemies.Add(new Dragon("Dragon 1"));
 
             while (player.IsAlive && enemies.Count > 0)
             {
@@ -387,7 +387,7 @@ class Enemy
     public int Defense { get; private set; }
     public bool IsDefeated => Health <= 0;
 
-    private static readonly Random random = new Random();
+    protected static readonly Random random = new Random();
 
     public Enemy(string name)
     {
@@ -417,7 +417,24 @@ class Enemy
     public void Attack(Player player)
     {
         player.TakeDamage(AttackPower, this);
+    }
+}
+
+class Goblin : Enemy
+{
+    public Goblin(string name) : base(name)
+    {
+        // Customize Goblin properties if needed
+    }
+}
+
+class Dragon : Enemy
+{
+    public Dragon(string name) : base(name)
+    {
+        // Customize Dragon properties if needed
                 }
             }
         }    
     }
+}
